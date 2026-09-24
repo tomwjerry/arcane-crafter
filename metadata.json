@@ -1,0 +1,8 @@
+{
+  "name": "Emberforge — Build. Refine. Survive.",
+  "description": "A 3D action-builder about stubborn ingenuity. Hunt monsters for resources, plan a workshop, and melt iron ore across multiple tech paths.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

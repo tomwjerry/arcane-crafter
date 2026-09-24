@@ -17,7 +17,7 @@
 import { mkdirSync } from "node:fs";
 import { chromium } from "playwright";
 
-const URL = process.argv[2] || "http://127.0.0.1:5173/";
+const URL = process.argv[2] || "http://127.0.0.1:3000/";
 const SHOTS = "screenshots";
 mkdirSync(SHOTS, { recursive: true });
 
